@@ -23,6 +23,7 @@
     NSLog(@"4");
     NSLog(@"a");
     NSLog(@"b");
+    NSLog(@"c");
 }
 
 
